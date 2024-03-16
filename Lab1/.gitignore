@@ -1,0 +1,5 @@
+build/
+  dirwalk
+  dirwalkLab.o
+  infoMakeFile.txt
+  .vscode/
